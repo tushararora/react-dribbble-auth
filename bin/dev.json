@@ -1,0 +1,8 @@
+{
+  "entry": "src/main.js",
+  "publicPath": "/dist",
+  "output": "build.js",
+  "staticDirectories": ["cdn", "dev-cdn"],
+  "htmlFile": "index.html",
+  "port": 3333
+}
